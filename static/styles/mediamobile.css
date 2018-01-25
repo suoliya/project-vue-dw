@@ -1,0 +1,39 @@
+@media screen and (max-width: 768px) {
+  #sidebar > ul > li {
+    margin: 0;
+  }
+  #container #sidebar {
+    width: 40px;
+    overflow-x: hidden !important;
+    overflow-y: auto !important;
+  }
+
+  ul.sidebar-menu .childli{
+  	padding-left: 5px !important;
+  }
+  .user-box{
+  	display:none;
+  }
+
+  .el-menu-item, .el-submenu__title{
+  	padding-left: 5px !important;
+  }
+
+  .navtop-left{
+  	display:none;
+  }
+
+  .wrapper {
+    padding-left: 40px;
+  }
+
+  #sidebar .childli2 li{
+    padding-left: 0 !important;
+  }
+
+  #sidebar .childli2 li span{
+    margin-left: 5px;
+    width:2em;
+    overflow:hidden;
+  }
+}

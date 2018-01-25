@@ -1,0 +1,195 @@
+@media screen and (max-width: 1600px) {
+  .usl-icon{
+    width:33px;
+    height:33px;
+  }
+  .panel{
+    margin-bottom: 10px;
+  }
+  .el-dialog__body{
+    padding: 30px 20px;
+    padding-bottom: 0;
+  }
+  .wrapper{
+    padding: 10px;
+  }
+  .navtop-left{
+    width: 180px;
+  }
+  .btn-lg{
+    font-size: 14px;
+  }
+  .usl-middle-font{
+    font-size:16px;
+    position: relative;
+    top: -5px;
+  }
+
+  h1, .h1{
+    font-size: 20px;
+  }
+
+  .search-box input{
+    min-width: 170px;
+  }
+
+  .f25{
+    font-size: 16px;
+  }
+
+  .usl-select-tj li{
+    padding: 5px 0;
+    margin-right: 10px;
+  }
+
+  .search-box div{
+    padding: 8px 8px;
+  }
+  .el-select{
+    width: 104px;
+  }
+  .el-date-editor{
+    width: 100% !important;
+  }
+
+  .markets-edit-table li{
+    padding: 5px 10px !important;
+  }
+
+  .topthree .iconmakemoney{
+    width: 50px;
+    height:50px;
+  }
+
+  .bjbw{
+    width: 150px;
+  }
+
+  .usl-select-tj-2{
+    margin-bottom: 0;
+  }
+
+  .gamehistory_box p{
+    width: 20rem;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+  }
+
+  .preferential_box .f-black{
+    margin-top: 15px;
+  }
+
+  .topthree h2{
+    margin-top: 10px;
+  }
+
+  .select_tj li,.select_date li{
+    padding: 5px;
+  }
+
+  .pan2 .panel p{
+    font-size: 14px;
+  }
+
+  .el-table{
+    font-size: 12px;
+  }
+
+  body{
+    font-size: 12px;
+    overflow-y: auto;
+  }
+  .col-lg-2{
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  #sidebar{
+    width: 180px;
+    overflow-x: hidden !important;
+  }
+
+  #main-content{
+    margin-left: 180px;
+  }
+
+  .el-table .cell, .el-table th>div{
+    padding-left: 10px;
+    padding-right: 10px;
+    box-sizing: border-box;
+    text-overflow: ellipsis;
+  }
+
+  .col-xs-1, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9, .col-xs-10, .col-xs-11, .col-xs-12, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12{
+    padding-right: 0;
+    padding-left: 10px;
+  }
+
+  .littlethree .topthree{
+      height: 125px;
+  }
+  .topthree{
+    padding: 30px 15px;
+  }
+
+  .newuserbox .usl-middle-font i{
+    font-size: 14px;
+  }
+  #sidebar{
+    overflow-x: hidden;
+  }
+
+  .content{
+    padding:15px 20px !important;
+  }
+  .row{
+    margin-right: -5px;
+    margin-left: -5px;
+  }
+  
+  h2, .h2{
+    font-size: 20px;
+  }
+  .f20 {
+    font-size: 14px;
+    }
+    .el-input__inner,.el-select-dropdown__item{
+    font-size: 12px;
+    }
+
+    .logincontent{
+        height: 590px;
+
+    }
+
+    .leftimgbox .loginfont{
+        width: 330px;
+    }
+
+    .leftimgbox{
+        height: 590px !important; 
+    }
+
+    .loginquan {
+        width: 740px;
+        margin-top: 80px;
+        margin-left: -120px;
+    }
+
+    .leftimgbox .yun {
+        left: -140px;
+        width: 830px;
+    }
+
+    .leftimgbox .loginfont{
+            margin-top: 100px;
+    }
+
+    .logininfobox{
+        margin-top: 100px;
+    }
+  
+    
+}
+

@@ -1,0 +1,12 @@
+version: '3.3'
+
+services:
+
+  dashboard-vue:
+    build: dawang-dashboard-vue
+    image: dawang-admin-vue
+    container_name: dawang-admin-vue
+    volumes:
+      - ./logs:/var/log/nginx
+    ports:
+      - "18808:80"
